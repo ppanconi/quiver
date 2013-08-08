@@ -1,0 +1,4 @@
+name: quiver
+description: Dart Application Ecosystem
+dependencies:
+  browser: any
