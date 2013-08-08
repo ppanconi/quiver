@@ -1,3 +1,5 @@
+/.gitignore.orig
+/bin/packages
 <<<<<<< HEAD
 /packages/quiver
 =======
